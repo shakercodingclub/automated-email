@@ -1,0 +1,4 @@
+John Smith,jsmith@placeholder.com
+Anony Mouse,amouse@placeholder.com
+Jane Janeson,sonofjane@placeholder.com
+Albo Neetan,palindrome@placeholder.com
